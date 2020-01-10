@@ -1,2 +1,6 @@
-# loaderDumpsArcade-hyperspin-wheel
-Supporting media wheels for Loader Dumps Arcade project + Hyperspin
+# Loader Dumps Arcade wheels for Hyperspin
+
+## Taito Type
+
+## NESICAxLive
+
