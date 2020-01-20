@@ -34,6 +34,14 @@
     <img src="wheel/spica.png" align="center" height="200" width="350">
 </p>
 
+<p align="center">
+    <img src="wheel/shikigame_no_shiro_3.png" align="center" height="200" width="350">
+</p>
+
+<p align="center">
+    <img src="wheel/castle_shikigami_3.png" align="center" height="200" width="350">
+</p>
+
 ### Taito Type x2
 
 <p align="center">
