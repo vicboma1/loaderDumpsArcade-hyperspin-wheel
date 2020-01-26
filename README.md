@@ -48,6 +48,10 @@
     <img src="wheel/troublewitches.png" align="center" height="150" width="400">
 </p>
 
+<p align="center">
+    <img src="wheel/battleFantasia.png" align="center" height="150" width="400">
+</p>
+
 ### NESICAxLive
 
 <p align="center">
