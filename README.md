@@ -56,6 +56,10 @@
     <img src="wheel/powerinstinct5.png" align="center" height="180" width="400">
 </p>
 
+<p align="center">
+    <img src="wheel/kof_12.png" align="center" height="180" width="400">
+</p>
+
 ### NESICAxLive
 
 <p align="center">
