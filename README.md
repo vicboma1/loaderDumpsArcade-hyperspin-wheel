@@ -8,6 +8,26 @@
 
 <p align="center">
     <img src="wheel/raiden3.png" align="center" height="200" width="350">
+    <img src="wheel/raiden4.png" align="center" height="150" width="450">
+</p> 
+
+<p align="center">
+    <img src="wheel/homura.png" align="center" height="100" width="300">
+    <img src="wheel/chaosBreaker.png" align="center" height="125" width="300">
+</p>
+
+<p align="center">
+    <img src="wheel/gigawings.png" align="center" height="125" width="300">
+    <img src="wheel/TGM3.png" align="center" height="200" width="350">
+</p>
+
+<p align="center">
+    <img src="wheel/spica.png" align="center" height="200" width="350">
+    <img src="wheel/shikigame_no_shiro_3.png" align="center" height="200" width="350">
+</p>
+
+<p align="center">
+    <img src="wheel/raiden3.png" align="center" height="200" width="350">
 </p>
 
 <p align="center">
