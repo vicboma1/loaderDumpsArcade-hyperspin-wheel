@@ -68,6 +68,10 @@
     <img src="wheel/blazBlueCalamityTrigger.png" align="center" height="190" width="410">
 </p>
 
+<p align="center">
+    <img src="wheel/BlazBlue-_CS1.png" align="center" height="290" width="410">
+</p>
+
 ### NESICAxLive
 
 <p align="center">
