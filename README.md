@@ -91,6 +91,6 @@
 </p>
 
 <p align="center">
-    <img src="wheel/Arcana%20Heart%202%20v2.1.png" align="center" height="150" width="400">
+    <img src="wheel/Arcana%20Heart%202%20v2.1.png" align="center" height="180" width="400">
 </p>
 
