@@ -72,6 +72,10 @@
     <img src="wheel/BlazBlue-_CS1.png" align="center" height="290" width="410">
 </p>
 
+<p align="center">
+    <img src="wheel/bb22.png" align="center" height="290" width="410">
+</p>
+
 ### NESICAxLive
 
 <p align="center">
