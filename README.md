@@ -80,6 +80,10 @@
     <img src="wheel/Street_Fighter_IV.png" align="center" height="270" width="380">
 </p>
 
+<p align="center">
+    <img src="wheel/Super%20Street%20Fighter%20IV%20Arcade%20Edition%20v.1.0%20(Nesys)" align="center" height="270" width="380">
+</p>
+
 ### NESICAxLive
 
 <p align="center">
