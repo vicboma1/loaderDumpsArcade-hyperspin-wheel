@@ -84,6 +84,10 @@
     <img src="wheel/Super%20Street%20Fighter%20IV%20Arcade%20Edition%20v.1.0%20(Nesys).png" align="center" height="240" width="320">
 </p>
 
+<p align="center">
+    <img src="wheel/King%20of%20Fighters%20Maximum%20Impact%20Regulation%20A.png" align="center" height="230" width="360">
+</p>
+
 ### NESICAxLive
 
 <p align="center">
